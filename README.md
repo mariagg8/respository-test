@@ -28,7 +28,7 @@
     1. Item 3.i
     1. Item 3.ii
 
-## Bold and italic
+## Bold & italic
 
 *italic/cursive/emphasis*
 
@@ -40,6 +40,12 @@ __bold__
 ## Strike
 ~Strike~
 
-
+## Links
+[title of the link](https://neuefische.de)
+[neuefische][neuefische]
+[neuefische][neuefische] ist toll
 
 Just a test
+
+[neuefische]: https://www.neuefische.de
+[google]: https://www.google.com
