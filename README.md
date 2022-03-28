@@ -75,4 +75,10 @@ cd path/to/some/folder
 [neuefische]: https://www.neuefische.de
 [google]: https://www.google.com
 
+
+
+## Tables
+
+| foo | bar | baz | 
+| :-- Hello | 
 Just a text
