@@ -37,7 +37,7 @@
 _italic_
 __bold__
 
-##Strike
+## Strike
 ~Strike~
 
 
