@@ -48,8 +48,26 @@ __bold__
 
 ## Blockquote
 > I am a blockquote
-> 
+
+## Code
+This code is `inline`.
+
+```
+This is a code block
+```
+```md
+## H2
+**bold**
 Just a test
+```
+
+```html
+<h1>Headline</h1>
+```
+```shell
+cd path/to/some/folder
+```
 
 [neuefische]: https://www.neuefische.de
 [google]: https://www.google.com
+
