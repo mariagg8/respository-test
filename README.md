@@ -80,5 +80,13 @@ cd path/to/some/folder
 ## Tables
 
 | foo | bar | baz | 
-| :-- Hello | 
+| :-- | --- | --- |
+|Hello| Hola| salut|
+
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 Just a text
