@@ -28,7 +28,17 @@
     1. Item 3.i
     1. Item 3.ii
 
+## Bold and italic
 
+*italic/cursive/emphasis*
+
+**bold/strong**
+
+_italic_
+__bold__
+
+##Strike
+~Strike~
 
 
 
